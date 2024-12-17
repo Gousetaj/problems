@@ -1,0 +1,3 @@
+[submodule "solutions/two-sum-solution"]
+	path = solutions/two-sum-solution
+	url = https://github.com/Gousetaj/two-sum-solution.git
